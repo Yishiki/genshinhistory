@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yishiki.github.io/genshinhistory/</id>
+    <title>原神往事——那些路人需要了解的真相</title>
+    <updated>2022-10-03T06:13:46.167Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yishiki.github.io/genshinhistory/"/>
+    <link rel="self" href="https://yishiki.github.io/genshinhistory/atom.xml"/>
+    <subtitle>202210022307</subtitle>
+    <logo>https://yishiki.github.io/genshinhistory/images/avatar.png</logo>
+    <icon>https://yishiki.github.io/genshinhistory/favicon.ico</icon>
+    <rights>All rights reserved 2022, 原神往事——那些路人需要了解的真相</rights>
+    <entry>
+        <title type="html"><![CDATA[原神往事3]]></title>
+        <id>https://yishiki.github.io/genshinhistory/post/yuan-shen-wang-shi-3/</id>
+        <link href="https://yishiki.github.io/genshinhistory/post/yuan-shen-wang-shi-3/">
+        </link>
+        <updated>2022-10-01T08:40:05.000Z</updated>
+        <summary type="html"><![CDATA[<p></p>
+<p>自原神发布首个PV以来，大大小小诸多节奏层出不穷。自惊叹于前辈史官记录的《原神往事——那些路人需要了解的真相》。及至本人整理的《原神往事·Ⅱ》，由于疏于平日的收集整理，该文系纯粹的年终集中式盘点。这种工作方式由于距离各个时间发生颇有一段时间，故使得资料收集变得尤为艰难，一些证据也因时间的推移而消散，对于还原事件原貌实属不利。同时，集中式的工作方式也使得文章对于作者本人的肝度成倍增加。</p>
+<p>鉴于以上考量，本人将尝试以月或季度为单位，进行2022年度的原神史书《原神往事·Ⅲ》的整理，并在此更新。</p>
+<p>但这样的工作方式也有一定弊端。事件发酵/沉淀时间不足，将变得容易混入一些实证不足/有碍判断的内容。因此会加入一定的冷却时间，在时效上保证一定的偏移，给反转留下时间。也恳请大家多多提供不同角度的补充考察，尽我们最大可能，共同还原原貌。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p></p>
+<p>自原神发布首个PV以来，大大小小诸多节奏层出不穷。自惊叹于前辈史官记录的《原神往事——那些路人需要了解的真相》。及至本人整理的《原神往事·Ⅱ》，由于疏于平日的收集整理，该文系纯粹的年终集中式盘点。这种工作方式由于距离各个时间发生颇有一段时间，故使得资料收集变得尤为艰难，一些证据也因时间的推移而消散，对于还原事件原貌实属不利。同时，集中式的工作方式也使得文章对于作者本人的肝度成倍增加。</p>
+<p>鉴于以上考量，本人将尝试以月或季度为单位，进行2022年度的原神史书《原神往事·Ⅲ》的整理，并在此更新。</p>
+<p>但这样的工作方式也有一定弊端。事件发酵/沉淀时间不足，将变得容易混入一些实证不足/有碍判断的内容。因此会加入一定的冷却时间，在时效上保证一定的偏移，给反转留下时间。也恳请大家多多提供不同角度的补充考察，尽我们最大可能，共同还原原貌。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://yishiki.github.io/genshinhistory/post/hello-world/</id>
+        <link href="https://yishiki.github.io/genshinhistory/post/hello-world/">
+        </link>
+        <updated>2022-09-30T18:20:04.000Z</updated>
+    </entry>
+</feed>
